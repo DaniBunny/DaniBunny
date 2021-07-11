@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaniBunny
+- 👋 Hi, I’m Daniel Coelho
 - 👀 I’m interested in Big Data, Apache Spark and Deep Learning
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Apache Spark recipes and scenarios
