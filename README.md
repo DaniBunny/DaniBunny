@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Coelho
-- 👀 I’m interested in Big Data, Apache Spark and Deep Learning
+- 👀 I’m interested in Big Data, Apache Spark, Python, Deep Learning, and Trading Systems
 - 💞️ I’m looking to collaborate on Big Data table formats and catalogs, DataOps, Apache Spark recipes and scenarios
-- 🌱 I’m currently learning Reinforcement Deep Learning
+- 🌱 I’m currently learning Deep Reinforcement Learning and how to use LLMs to streamline life.
 - 📫 How to reach me ... X! @MrDanielCoelho
 
 <!---
